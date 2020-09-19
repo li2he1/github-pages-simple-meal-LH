@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "45d1a481946690939af9ab62807c3031",
+    "revision": "c1c019d7a55f30fcc838fbe91bb67fae",
     "url": "/github-pages-simple-meal/index.html"
   },
   {
-    "revision": "26e9fe4c3d77b6223618",
+    "revision": "63fd2640a8e289e2cab6",
     "url": "/github-pages-simple-meal/static/css/main.9dcab7d2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github-pages-simple-meal/static/js/2.65c59741.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "26e9fe4c3d77b6223618",
-    "url": "/github-pages-simple-meal/static/js/main.bc2ea283.chunk.js"
+    "revision": "63fd2640a8e289e2cab6",
+    "url": "/github-pages-simple-meal/static/js/main.e7854325.chunk.js"
   },
   {
     "revision": "99b422f0e29ef27853a7",
